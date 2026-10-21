@@ -6,7 +6,7 @@ Cuatro semanas a tres por semana. Lunes 7:30, miércoles 19:00, sábado 10:30. E
 
 ![01_presentacion](lote_1/01_presentacion.png)
 
-> [falta el euskera: lo da el traductor]
+> «Biak» zu eta Draki zarete. BiakFit indarra lantzeko app bat da, daukazunarekin entrenatzeko: gimnasiorik gabe eta presarik gabe.
 > 
 > · · ·
 > 
@@ -32,7 +32,7 @@ Cuatro semanas a tres por semana. Lunes 7:30, miércoles 19:00, sábado 10:30. E
 
 ![02_pesa_rusa](lote_1/02_pesa_rusa.png)
 
-> [falta el euskera: lo da el traductor]
+> Pisu errusiarra ez zen gimnasio batean sortu. XVIII. mendeko Errusiako azoketan garia pisatzeko kontrapisua zen, eta pud bat pisatzen zuen: 16 kilo inguru, gaur egun oraindik ohikoena den neurria.
 > 
 > · · ·
 > 
@@ -58,7 +58,7 @@ Cuatro semanas a tres por semana. Lunes 7:30, miércoles 19:00, sábado 10:30. E
 
 ![03_primeras_semanas](lote_1/03_primeras_semanas.png)
 
-> [falta el euskera: lo da el traductor]
+> Lehen asteetan indarra irabazten duzu muskulurik irabazi gabe: zure nerbio-sistema da, dagoeneko daukazun muskulua erabiltzen ikasten. Horregatik hobetzen da hain azkar hasieran, ispiluak ez aldatu arren.
 > 
 > · · ·
 > 
@@ -82,7 +82,7 @@ Cuatro semanas a tres por semana. Lunes 7:30, miércoles 19:00, sábado 10:30. E
 
 ![04_flexion](lote_1/04_flexion.png)
 
-> [falta el euskera: lo da el traductor]
+> Flexioa: eskuak sorbalden azpian eta gorputza zuzen burutik orpoetaraino. Aldaka erortzen bazaizu, estutu ipurmasailak. Eta oraindik bat ere ateratzen ez bazaizu, belaunetakoak ere flexioak dira.
 > 
 > · · ·
 > 
@@ -108,7 +108,7 @@ Cuatro semanas a tres por semana. Lunes 7:30, miércoles 19:00, sábado 10:30. E
 
 ![05_dia_que_no_apetece](lote_1/05_dia_que_no_apetece.png)
 
-> [falta el euskera: lo da el traductor]
+> Gaur ez duzu gogorik. Ondo da. Hamabost minutuk berdin balio dute, ez hamabost minutuengatik, katea ez hausteagatik baizik. Indartsu egiten zaituena berrogeigarren saioa da.
 > 
 > · · ·
 > 
@@ -132,7 +132,7 @@ Cuatro semanas a tres por semana. Lunes 7:30, miércoles 19:00, sábado 10:30. E
 
 ![06_campana_muda](lote_1/06_campana_muda.png)
 
-> [falta el euskera: lo da el traductor]
+> Ingelesez, pisuari dumbbell esaten zaio: kanpai mutua. XVIII. mendeko Ingalaterran, kanpai-joleek mihirik gabeko kanpaiekin entrenatzen zuten, herri osoa esnatu gabe praktikatzeko.
 > 
 > · · ·
 > 
@@ -156,7 +156,7 @@ Cuatro semanas a tres por semana. Lunes 7:30, miércoles 19:00, sábado 10:30. E
 
 ![07_agujetas](lote_1/07_agujetas.png)
 
-> [falta el euskera: lo da el traductor]
+> Minberatasunak ez du neurtzen saioa ona izan den. Asteak aurrera joan ahala, entrenamendu berak ez dizu minik emango eta berdin funtzionatzen jarraituko du. Ondo entrenatzea ez da apurtuta bukatzea, ostegunean itzuli ahal izatea baizik.
 > 
 > · · ·
 > 
@@ -182,7 +182,7 @@ Cuatro semanas a tres por semana. Lunes 7:30, miércoles 19:00, sábado 10:30. E
 
 ![08_por_que_preguntamos](lote_1/08_por_que_preguntamos.png)
 
-> [falta el euskera: lo da el traductor]
+> Appak ez dizu pisua igotzen astebete pasa delako. Seriea erraza egin zaizula esaten duzunean igotzen dizu, eta ezin izan duzula esaten duzunean, jaitsi. Horregatik dago galdera bat ariketa bakoitzaren ondoren.
 > 
 > · · ·
 > 
@@ -208,7 +208,7 @@ Cuatro semanas a tres por semana. Lunes 7:30, miércoles 19:00, sábado 10:30. E
 
 ![09_sentadilla](lote_1/09_sentadilla.png)
 
-> [falta el euskera: lo da el traductor]
+> Sentadilla eseri eta altxatzeko keinua da, egunean hogei aldiz pentsatu gabe egiten duzuna. Hori lantzea laurogei urterekin sofatik altxatzen entrenatzea da.
 > 
 > · · ·
 > 
@@ -232,7 +232,7 @@ Cuatro semanas a tres por semana. Lunes 7:30, miércoles 19:00, sábado 10:30. E
 
 ![10_crece_descansando](lote_1/10_crece_descansando.png)
 
-> [falta el euskera: lo da el traductor]
+> Muskulua ez da entrenatzen ari zaren bitartean hazten, gero hazten da, lo egitean. Horregatik, atseden-egunik gabeko plan bat ez da plan gogorra: gaizki egindako plana da.
 > 
 > · · ·
 > 
@@ -256,7 +256,7 @@ Cuatro semanas a tres por semana. Lunes 7:30, miércoles 19:00, sábado 10:30. E
 
 ![11_gomas](lote_1/11_gomas.png)
 
-> [falta el euskera: lo da el traductor]
+> Gomak ez datoz gimnasiotik, errehabilitaziotik datoz. Poltsiko batean sartzen dira eta materialik gabe existitzen ez diren bizkarreko ariketak irekitzen dituzte.
 > 
 > · · ·
 > 
@@ -280,7 +280,7 @@ Cuatro semanas a tres por semana. Lunes 7:30, miércoles 19:00, sábado 10:30. E
 
 ![12_la_vuelta](lote_1/12_la_vuelta.png)
 
-> [falta el euskera: lo da el traductor]
+> Bi aste entrenatu gabe. Drakik ez dizu ezer esaten: utzi zenuen lekuan itxaroten dizu, karga berberekin. Itzultzea ez da hutsetik hastea, itzultzea da.
 > 
 > · · ·
 > 
