@@ -4,7 +4,7 @@ Cuatro semanas a tres por semana. Lunes 7:30, miércoles 19:00, sábado 10:30. E
 
 ## 1 · presentacion  (texto, lunes)
 
-![01_presentacion](imagenes/01_presentacion.png)
+![01_presentacion](lote_1/01_presentacion.png)
 
 > [falta el euskera: lo da el traductor]
 > 
@@ -30,7 +30,7 @@ Cuatro semanas a tres por semana. Lunes 7:30, miércoles 19:00, sábado 10:30. E
 
 ## 2 · pesa rusa  (ejercicio, miércoles)
 
-![02_pesa_rusa](imagenes/02_pesa_rusa.png)
+![02_pesa_rusa](lote_1/02_pesa_rusa.png)
 
 > [falta el euskera: lo da el traductor]
 > 
@@ -56,7 +56,7 @@ Cuatro semanas a tres por semana. Lunes 7:30, miércoles 19:00, sábado 10:30. E
 
 ## 3 · primeras semanas  (texto, sábado)
 
-![03_primeras_semanas](imagenes/03_primeras_semanas.png)
+![03_primeras_semanas](lote_1/03_primeras_semanas.png)
 
 > [falta el euskera: lo da el traductor]
 > 
@@ -80,7 +80,7 @@ Cuatro semanas a tres por semana. Lunes 7:30, miércoles 19:00, sábado 10:30. E
 
 ## 4 · flexion  (ejercicio, lunes)
 
-![04_flexion](imagenes/04_flexion.png)
+![04_flexion](lote_1/04_flexion.png)
 
 > [falta el euskera: lo da el traductor]
 > 
@@ -106,7 +106,7 @@ Cuatro semanas a tres por semana. Lunes 7:30, miércoles 19:00, sábado 10:30. E
 
 ## 5 · dia que no apetece  (texto, miércoles)
 
-![05_dia_que_no_apetece](imagenes/05_dia_que_no_apetece.png)
+![05_dia_que_no_apetece](lote_1/05_dia_que_no_apetece.png)
 
 > [falta el euskera: lo da el traductor]
 > 
@@ -130,7 +130,7 @@ Cuatro semanas a tres por semana. Lunes 7:30, miércoles 19:00, sábado 10:30. E
 
 ## 6 · campana muda  (ejercicio, sábado)
 
-![06_campana_muda](imagenes/06_campana_muda.png)
+![06_campana_muda](lote_1/06_campana_muda.png)
 
 > [falta el euskera: lo da el traductor]
 > 
@@ -154,7 +154,7 @@ Cuatro semanas a tres por semana. Lunes 7:30, miércoles 19:00, sábado 10:30. E
 
 ## 7 · agujetas  (texto, lunes)
 
-![07_agujetas](imagenes/07_agujetas.png)
+![07_agujetas](lote_1/07_agujetas.png)
 
 > [falta el euskera: lo da el traductor]
 > 
@@ -180,7 +180,7 @@ Cuatro semanas a tres por semana. Lunes 7:30, miércoles 19:00, sábado 10:30. E
 
 ## 8 · por que preguntamos  (texto, miércoles)
 
-![08_por_que_preguntamos](imagenes/08_por_que_preguntamos.png)
+![08_por_que_preguntamos](lote_1/08_por_que_preguntamos.png)
 
 > [falta el euskera: lo da el traductor]
 > 
@@ -206,7 +206,7 @@ Cuatro semanas a tres por semana. Lunes 7:30, miércoles 19:00, sábado 10:30. E
 
 ## 9 · sentadilla  (ejercicio, sábado)
 
-![09_sentadilla](imagenes/09_sentadilla.png)
+![09_sentadilla](lote_1/09_sentadilla.png)
 
 > [falta el euskera: lo da el traductor]
 > 
@@ -230,7 +230,7 @@ Cuatro semanas a tres por semana. Lunes 7:30, miércoles 19:00, sábado 10:30. E
 
 ## 10 · crece descansando  (texto, lunes)
 
-![10_crece_descansando](imagenes/10_crece_descansando.png)
+![10_crece_descansando](lote_1/10_crece_descansando.png)
 
 > [falta el euskera: lo da el traductor]
 > 
@@ -254,7 +254,7 @@ Cuatro semanas a tres por semana. Lunes 7:30, miércoles 19:00, sábado 10:30. E
 
 ## 11 · gomas  (texto, miércoles)
 
-![11_gomas](imagenes/11_gomas.png)
+![11_gomas](lote_1/11_gomas.png)
 
 > [falta el euskera: lo da el traductor]
 > 
@@ -278,7 +278,7 @@ Cuatro semanas a tres por semana. Lunes 7:30, miércoles 19:00, sábado 10:30. E
 
 ## 12 · la vuelta  (texto, sábado)
 
-![12_la_vuelta](imagenes/12_la_vuelta.png)
+![12_la_vuelta](lote_1/12_la_vuelta.png)
 
 > [falta el euskera: lo da el traductor]
 > 
