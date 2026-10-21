@@ -44,6 +44,18 @@ correo. Se regenera con:
 python3 tools/redes_lote.py 1
 ```
 
+## Los idiomas
+
+El pie va en los tres: **euskera arriba**, castellano entero en medio,
+inglés abajo. El euskera va primero porque es lo que Instagram enseña antes
+del «más», y así la cuenta dice de dónde viene antes de que nadie pregunte.
+
+El castellano va completo y los otros dos condensados a dos o tres frases.
+Tres veces el mismo párrafo largo no es un pie trilingüe, es un muro.
+
+Donde pone `[falta el euskera]` es que está con el traductor. Aquí no se
+inventa euskera.
+
 ## El estilo
 
 Está escrito en `docs/REDES.md` de la app. La regla que lo resume: **si un
