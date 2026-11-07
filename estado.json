@@ -1,5 +1,5 @@
 {
-  "lote": 1,
-  "programados": 12,
+  "lote": 2,
+  "programados": 0,
   "nota": "Cuántos posts del lote han pasado ya por Buffer, publicados o en cola. Los seis primeros se pusieron a mano el 21/10/2026; desde ahí lo lleva scripts/redes_sabado.sh del repo biakfit, tres cada sábado. Vive aquí, y no en biakfit, desde el 07/11/2026: este repo siempre está en main."
 }
